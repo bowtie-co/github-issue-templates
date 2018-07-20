@@ -5,7 +5,7 @@
 
 ## Motivation and Context
 <!--- Why is this change required? What problem does it solve? -->
-<!--- If it fixes an open issue, please link to the issue here. -->
+<!--- Link to associated pivotal bug/feature ticket. -->
 
 ## How Has This Been Tested?
 <!--- Please describe in detail how you tested your changes. -->
@@ -26,3 +26,6 @@
 - [ ] My code follows the code style of this project.
 - [ ] My change requires a change to the documentation.
 - [ ] I have updated the documentation accordingly.
+- [ ] I have added appropriate label(s) to this PR.
+- [ ] I have assigned this PR to the person resposible for these changes. (usually you!)
+- [ ] I have requested at least one reviewer to review this PR.
